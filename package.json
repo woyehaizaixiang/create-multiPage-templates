@@ -16,7 +16,7 @@
   "devDependencies": {
     "babel-loader": "^8.2.5",
     "copy-webpack-plugin": "^5.1.2",
-    "css-loader": "^6.7.1",
+    "css-loader": "^5.2.7",
     "glob": "^8.0.3",
     "html-webpack-plugin": "^4.5.2",
     "postcss-loader": "^3.0.0",
