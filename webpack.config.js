@@ -60,6 +60,9 @@ const config = {
   },
   plugins: [
   ],
+  performance: {
+    hints: false, // close size limit 224k
+  },
   mode: 'production'
 }
 
